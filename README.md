@@ -1,2 +1,2 @@
-# tt-reader-bot
+# Timetable reader bot
 Reads lessons schedule from "e-dekanat"
